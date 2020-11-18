@@ -1,6 +1,6 @@
 # TokoBeDia
 
-Lab's Project that created in term 4 in Binus University
+This repository is used for ***Pattern Software Design*** Project. Lab's Project that created in term 4 in Binus University.
 
 ## Software will be used in this subject are described as follows:
 
